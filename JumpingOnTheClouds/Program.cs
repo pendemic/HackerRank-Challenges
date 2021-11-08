@@ -11,30 +11,31 @@ namespace JumpingOnTheClouds
         static void Main(string[] args)
         {
             List<int> gameList = new List<int>();
-            int [] clouds = { 1, 0, 0, 0, 0, 0};
+            int [] clouds = { 0, 0, 0, 1, 0, 0};
             gameList.AddRange(clouds);
             Console.WriteLine(jumpingOnClouds(gameList));
         }
         public static int jumpingOnClouds(List<int> c)
         {
             int numJumps = 0;
-            for (int i = 0; i < c.Count; i++)
+            int currentCloud = 0;
+            int doubleCloud = 0;
+            if (c.Count <= 1)
             {
-                if (c[i] == 0)
+                return 0;
+            }
+
+            while (currentCloud != (c.Count) - 1)
+            {
+                if (currentCloud + 2 < (c.Count) && c[currentCloud + 2] == doubleCloud )
                 {
-                    i++;
-                    numJumps++;
+                    currentCloud += 2;
                 }
-                else if (c[i + 1] == 0)
+                else
                 {
-                    i++;
-                    numJumps++;
+                    currentCloud++;
                 }
-                else if (c[i] == 1)
-                {
-                    i = i - 2;
-                    numJumps--;
-                }
+                numJumps++;
             }
 
             return numJumps;
