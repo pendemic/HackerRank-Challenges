@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "Jumpi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{2A977EF9-5E68-45B8-A42D-53248B946027}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{D32DBD2F-EDE8-46D2-94CD-C92DA8970330}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2A977EF9-5E68-45B8-A42D-53248B946027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A977EF9-5E68-45B8-A42D-53248B946027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A977EF9-5E68-45B8-A42D-53248B946027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32DBD2F-EDE8-46D2-94CD-C92DA8970330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32DBD2F-EDE8-46D2-94CD-C92DA8970330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32DBD2F-EDE8-46D2-94CD-C92DA8970330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32DBD2F-EDE8-46D2-94CD-C92DA8970330}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
