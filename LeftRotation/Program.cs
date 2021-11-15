@@ -31,7 +31,7 @@ namespace LeftRotation
                 {
                     indexCounter = 0;
                 }
-                a[indexCounter + 1] = a[indexCounter];
+                a[0] = a[indexCounter];
                 rotatedList.Add(a[indexCounter]);
             }
 
