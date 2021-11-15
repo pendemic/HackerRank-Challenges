@@ -13,6 +13,7 @@ namespace JumpingOnTheClouds
             List<int> gameList = new List<int>();
             int [] clouds = { 0, 0, 0, 1, 0, 0};
             gameList.AddRange(clouds);
+            Console.WriteLine(gameList);
             Console.WriteLine(jumpingOnClouds(gameList));
         }
         public static int jumpingOnClouds(List<int> c)
