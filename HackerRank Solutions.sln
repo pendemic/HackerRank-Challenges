@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftRotation", "LeftRotatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "SimpleArraySum\SimpleArraySum.csproj", "{5FAA8B25-6563-4B99-9B6F-FE7738B2432C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{7F31A5C3-471C-4767-8B72-886EA3403225}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5FAA8B25-6563-4B99-9B6F-FE7738B2432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FAA8B25-6563-4B99-9B6F-FE7738B2432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FAA8B25-6563-4B99-9B6F-FE7738B2432C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F31A5C3-471C-4767-8B72-886EA3403225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F31A5C3-471C-4767-8B72-886EA3403225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F31A5C3-471C-4767-8B72-886EA3403225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F31A5C3-471C-4767-8B72-886EA3403225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
