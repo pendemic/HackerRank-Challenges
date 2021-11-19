@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\DrawingBook\bin\Debug\DrawingBook.exe.config
+C:\Users\student\source\HackerRank\DrawingBook\bin\Debug\DrawingBook.exe
+C:\Users\student\source\HackerRank\DrawingBook\bin\Debug\DrawingBook.pdb
+C:\Users\student\source\HackerRank\DrawingBook\obj\Debug\DrawingBook.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\DrawingBook\obj\Debug\DrawingBook.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\DrawingBook\obj\Debug\DrawingBook.exe
+C:\Users\student\source\HackerRank\DrawingBook\obj\Debug\DrawingBook.pdb
