@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\CatsAndMouse\bin\Debug\CatsAndMouse.exe.config
+C:\Users\student\source\HackerRank\CatsAndMouse\bin\Debug\CatsAndMouse.exe
+C:\Users\student\source\HackerRank\CatsAndMouse\bin\Debug\CatsAndMouse.pdb
+C:\Users\student\source\HackerRank\CatsAndMouse\obj\Debug\CatsAndMouse.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\CatsAndMouse\obj\Debug\CatsAndMouse.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\CatsAndMouse\obj\Debug\CatsAndMouse.exe
+C:\Users\student\source\HackerRank\CatsAndMouse\obj\Debug\CatsAndMouse.pdb
