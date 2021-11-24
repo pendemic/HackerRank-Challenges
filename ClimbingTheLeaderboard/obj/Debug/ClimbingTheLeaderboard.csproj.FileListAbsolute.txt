@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\bin\Debug\ClimbingTheLeaderboard.exe.config
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\bin\Debug\ClimbingTheLeaderboard.exe
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\bin\Debug\ClimbingTheLeaderboard.pdb
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\obj\Debug\ClimbingTheLeaderboard.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\obj\Debug\ClimbingTheLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\obj\Debug\ClimbingTheLeaderboard.exe
+C:\Users\student\source\HackerRank\ClimbingTheLeaderboard\obj\Debug\ClimbingTheLeaderboard.pdb

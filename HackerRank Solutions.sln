@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "Electron
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndMouse", "CatsAndMouse\CatsAndMouse.csproj", "{7188C31A-6374-4A5E-8283-64F209F9DC78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{DD48DE4E-D77F-4997-8E99-6F760F80F785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7188C31A-6374-4A5E-8283-64F209F9DC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7188C31A-6374-4A5E-8283-64F209F9DC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7188C31A-6374-4A5E-8283-64F209F9DC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD48DE4E-D77F-4997-8E99-6F760F80F785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD48DE4E-D77F-4997-8E99-6F760F80F785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD48DE4E-D77F-4997-8E99-6F760F80F785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD48DE4E-D77F-4997-8E99-6F760F80F785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
