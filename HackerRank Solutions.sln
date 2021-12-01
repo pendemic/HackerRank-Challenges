@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{C22BCA3E-BEF7-4442-827C-9FF557AE2C5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulDayAtTheMovies", "BeautifulDayAtTheMovies\BeautifulDayAtTheMovies.csproj", "{0F1E1CA7-0723-4794-8768-F4344AC77D34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C22BCA3E-BEF7-4442-827C-9FF557AE2C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C22BCA3E-BEF7-4442-827C-9FF557AE2C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C22BCA3E-BEF7-4442-827C-9FF557AE2C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1E1CA7-0723-4794-8768-F4344AC77D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1E1CA7-0723-4794-8768-F4344AC77D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1E1CA7-0723-4794-8768-F4344AC77D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1E1CA7-0723-4794-8768-F4344AC77D34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

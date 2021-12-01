@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\bin\Debug\BeautifulDayAtTheMovies.exe.config
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\bin\Debug\BeautifulDayAtTheMovies.exe
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\bin\Debug\BeautifulDayAtTheMovies.pdb
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.exe
+C:\Users\student\source\HackerRank\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.pdb
