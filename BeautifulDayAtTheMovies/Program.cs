@@ -16,13 +16,10 @@ namespace BeautifulDayAtTheMovies
         public static int beautifulDays(int i, int j, int k)
         {
             int dayCounter = 0;
-            string reverse;
             for (int l = i; l <= j; l++)
             {
-                char[] charArray = l.ToString().ToCharArray();
-                Array.Reverse(charArray);
-                reverse = new string(charArray);
-                if ((l - Int32.Parse(reverse)) % k == 0)
+                var reverseDays = new string(l.ToString().Reverse().ToArray());
+                if ((l - Int32.Parse(reverseDays)) % k == 0)
                 {
                     dayCounter++;
 
