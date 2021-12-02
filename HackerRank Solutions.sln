@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulDayAtTheMovies", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViralAdvertising", "ViralAdvertising\ViralAdvertising.csproj", "{8015BD33-348C-4CB3-B341-B36C0BA7C92E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveThePrisoner", "SaveThePrisoner\SaveThePrisoner.csproj", "{A6618D8D-8709-4385-BDA8-251032A258D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8015BD33-348C-4CB3-B341-B36C0BA7C92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8015BD33-348C-4CB3-B341-B36C0BA7C92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8015BD33-348C-4CB3-B341-B36C0BA7C92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6618D8D-8709-4385-BDA8-251032A258D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6618D8D-8709-4385-BDA8-251032A258D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6618D8D-8709-4385-BDA8-251032A258D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6618D8D-8709-4385-BDA8-251032A258D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

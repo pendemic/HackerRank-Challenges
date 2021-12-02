@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\SaveThePrisoner\bin\Debug\SaveThePrisoner.exe.config
+C:\Users\student\source\HackerRank\SaveThePrisoner\bin\Debug\SaveThePrisoner.exe
+C:\Users\student\source\HackerRank\SaveThePrisoner\bin\Debug\SaveThePrisoner.pdb
+C:\Users\student\source\HackerRank\SaveThePrisoner\obj\Debug\SaveThePrisoner.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\SaveThePrisoner\obj\Debug\SaveThePrisoner.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\SaveThePrisoner\obj\Debug\SaveThePrisoner.exe
+C:\Users\student\source\HackerRank\SaveThePrisoner\obj\Debug\SaveThePrisoner.pdb
