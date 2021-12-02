@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\ViralAdvertising\bin\Debug\ViralAdvertising.exe.config
+C:\Users\student\source\HackerRank\ViralAdvertising\bin\Debug\ViralAdvertising.exe
+C:\Users\student\source\HackerRank\ViralAdvertising\bin\Debug\ViralAdvertising.pdb
+C:\Users\student\source\HackerRank\ViralAdvertising\obj\Debug\ViralAdvertising.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\ViralAdvertising\obj\Debug\ViralAdvertising.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\ViralAdvertising\obj\Debug\ViralAdvertising.exe
+C:\Users\student\source\HackerRank\ViralAdvertising\obj\Debug\ViralAdvertising.pdb
