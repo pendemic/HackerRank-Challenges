@@ -17,25 +17,15 @@ namespace BeautifulDayAtTheMovies
         {
             int dayCounter = 0;
             string reverse;
-            List<string> days = new List<string>();
-            List<string> reversedDays = new List<string>();
             for (int l = i; l <= j; l++)
             {
-                days.Add(l.ToString());
-            }
-            foreach (var item in days)
-            {
-                char[] charArray = item.ToCharArray();
+                char[] charArray = l.ToString().ToCharArray();
                 Array.Reverse(charArray);
                 reverse = new string(charArray);
-                reversedDays.Add(reverse);
-            }
-            for (int m = 0; m < days.Count; m++)
-            {
-                if ((Int32.Parse(days[m]) - Int32.Parse(reversedDays[m])) % k == 0)
+                if ((l - Int32.Parse(reverse)) % k == 0)
                 {
                     dayCounter++;
-                    
+
                 }
             }
             return dayCounter;
