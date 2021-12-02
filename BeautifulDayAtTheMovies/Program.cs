@@ -19,8 +19,6 @@ namespace BeautifulDayAtTheMovies
             string reverse;
             List<string> days = new List<string>();
             List<string> reversedDays = new List<string>();
-            List<int> intReDays = new List<int>();
-            List<int> intDays = new List<int>();
             for (int l = i; l <= j; l++)
             {
                 days.Add(l.ToString());
@@ -32,22 +30,12 @@ namespace BeautifulDayAtTheMovies
                 reverse = new string(charArray);
                 reversedDays.Add(reverse);
             }
-            foreach (var item in reversedDays)
-            {
-                int conReDays = Int32.Parse(item);
-                intReDays.Add(conReDays);
-            }
-            foreach (var item in days)
-            {
-
-                int conDays = Int32.Parse(item);
-                intDays.Add(conDays);
-            }
             for (int m = 0; m < days.Count; m++)
             {
-                if ((intDays[m] - intReDays[m]) % k == 0)
+                if ((Int32.Parse(days[m]) - Int32.Parse(reversedDays[m])) % k == 0)
                 {
                     dayCounter++;
+                    
                 }
             }
             return dayCounter;
