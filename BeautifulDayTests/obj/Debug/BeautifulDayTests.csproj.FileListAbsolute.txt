@@ -1,0 +1,17 @@
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\BeautifulDayTests.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\BeautifulDayTests.pdb
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\BeautifulDayAtTheMovies.exe
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\BeautifulDayAtTheMovies.pdb
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\BeautifulDayAtTheMovies.exe.config
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\student\source\HackerRank\BeautifulDayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\student\source\HackerRank\BeautifulDayTests\obj\Debug\BeautifulDayTests.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\BeautifulDayTests\obj\Debug\BeautifulDayTests.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\BeautifulDayTests\obj\Debug\BeautifulDayTests.csproj.CopyComplete
+C:\Users\student\source\HackerRank\BeautifulDayTests\obj\Debug\BeautifulDayTests.dll
+C:\Users\student\source\HackerRank\BeautifulDayTests\obj\Debug\BeautifulDayTests.pdb

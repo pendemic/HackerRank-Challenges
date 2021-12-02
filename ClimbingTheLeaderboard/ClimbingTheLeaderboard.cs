@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClimbingTheLeaderboard
 {
-    class Program
+    class ClimbingTheLeaderboard
     {
         static void Main(string[] args)
         {
