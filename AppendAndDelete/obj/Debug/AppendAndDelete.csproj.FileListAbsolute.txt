@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\AppendAndDelete\obj\Debug\AppendAndDelete.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\AppendAndDelete\obj\Debug\AppendAndDelete.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\AppendAndDelete\bin\Debug\AppendAndDelete.exe.config
+C:\Users\student\source\HackerRank\AppendAndDelete\bin\Debug\AppendAndDelete.exe
+C:\Users\student\source\HackerRank\AppendAndDelete\bin\Debug\AppendAndDelete.pdb
+C:\Users\student\source\HackerRank\AppendAndDelete\obj\Debug\AppendAndDelete.exe
+C:\Users\student\source\HackerRank\AppendAndDelete\obj\Debug\AppendAndDelete.pdb
