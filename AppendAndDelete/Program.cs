@@ -10,8 +10,8 @@ namespace AppendAndDelete
     {
         static void Main(string[] args)
         {
-            string s = "ashley";
-            string t = "ash";
+            string s = "y";
+            string t = "yu";
             int k = 2;
             Console.WriteLine(appendAndDelete(s,t,k));
         }
@@ -41,7 +41,7 @@ namespace AppendAndDelete
                     break;
                 }
             }
-            if (numOp <= k)
+            if (numOp == k)
             {
                 Console.WriteLine(numOp);
                 return "Yes";
