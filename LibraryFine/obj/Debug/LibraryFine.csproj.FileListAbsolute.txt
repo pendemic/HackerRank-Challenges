@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\LibraryFine\bin\Debug\LibraryFine.exe.config
+C:\Users\student\source\HackerRank\LibraryFine\bin\Debug\LibraryFine.exe
+C:\Users\student\source\HackerRank\LibraryFine\bin\Debug\LibraryFine.pdb
+C:\Users\student\source\HackerRank\LibraryFine\obj\Debug\LibraryFine.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\LibraryFine\obj\Debug\LibraryFine.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\LibraryFine\obj\Debug\LibraryFine.exe
+C:\Users\student\source\HackerRank\LibraryFine\obj\Debug\LibraryFine.pdb
