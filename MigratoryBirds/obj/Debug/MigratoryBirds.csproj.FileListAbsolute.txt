@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\MigratoryBirds\bin\Debug\MigratoryBirds.exe.config
+C:\Users\student\source\HackerRank\MigratoryBirds\bin\Debug\MigratoryBirds.exe
+C:\Users\student\source\HackerRank\MigratoryBirds\bin\Debug\MigratoryBirds.pdb
+C:\Users\student\source\HackerRank\MigratoryBirds\obj\Debug\MigratoryBirds.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\MigratoryBirds\obj\Debug\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\MigratoryBirds\obj\Debug\MigratoryBirds.exe
+C:\Users\student\source\HackerRank\MigratoryBirds\obj\Debug\MigratoryBirds.pdb

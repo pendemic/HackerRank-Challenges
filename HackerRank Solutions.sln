@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndSquares", "Sherl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFine", "LibraryFine\LibraryFine.csproj", "{A06BCB8B-47D4-42E1-BD27-161CB5CB6603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{7A75B37E-ADC6-4453-A7D8-0D3CF58DDE6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{A06BCB8B-47D4-42E1-BD27-161CB5CB6603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A06BCB8B-47D4-42E1-BD27-161CB5CB6603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A06BCB8B-47D4-42E1-BD27-161CB5CB6603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A75B37E-ADC6-4453-A7D8-0D3CF58DDE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A75B37E-ADC6-4453-A7D8-0D3CF58DDE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A75B37E-ADC6-4453-A7D8-0D3CF58DDE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A75B37E-ADC6-4453-A7D8-0D3CF58DDE6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
