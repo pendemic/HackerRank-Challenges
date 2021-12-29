@@ -10,38 +10,55 @@ namespace MigratoryBirds
     {
         static void Main(string[] args)
         {
-            int[] types = { 1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4 };
+            int[] types = { 1, 4, 4, 4, 5, 3 };
             List<int> arr = new List<int>(types);
             Console.WriteLine(migratoryBirds(arr));
         }
         public static int migratoryBirds(List<int> arr)
         {
-            int sightedBirds = 1;
-            int typeBird;
-            int indexMax;
-            List<int> sortedarr = new List<int>(arr.OrderBy(i => i));
-            List<int> distinctArr = new List<int>(sortedarr.Distinct());
+            //int sightedBirds = 1;
+            //int typeBird;
+            //int indexMax;
+            //List<int> sortedarr = new List<int>(arr.OrderBy(i => i));
+            //List<int> distinctArr = new List<int>(sortedarr.Distinct());
+            //List<int> counts = new List<int>();
+            //for (int i = 0; i < arr.Count; i++)
+            //{
+            //    for (int j = i+1; j < arr.Count; j++)
+            //    {
+            //        if (sortedarr[i] == sortedarr[j])
+            //        {
+            //            sightedBirds++;
+            //        }
+            //    }
+            //    counts.Add(sightedBirds);
+            //    sightedBirds = 1;
+            //}
+            //typeBird = counts.IndexOf(counts.Max());
+            //indexMax = distinctArr[typeBird];
+            //foreach (var item in counts)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //return indexMax;
+            int sightedBirds = 0;
+            int highestFreq;
             List<int> counts = new List<int>();
-            for (int i = 0; i < arr.Count; i++)
+            for (int i = 1; i <= arr.Max(); i++)
             {
-                for (int j = i+1; j < arr.Count; j++)
+                for (int j = 0; j < arr.Count; j++)
                 {
-                    if (sortedarr[i] == sortedarr[j])
+                    if (i == arr[j])
                     {
                         sightedBirds++;
                     }
                 }
                 counts.Add(sightedBirds);
-                sightedBirds = 1;
+                sightedBirds = 0;
             }
-            typeBird = counts.IndexOf(counts.Max());
-            indexMax = distinctArr[typeBird];
-            foreach (var item in counts)
-            {
-                Console.WriteLine(item);
-            }
-
-            return indexMax;
+            highestFreq = (counts.IndexOf(counts.Max())) + 1;
+            return highestFreq;
         }
     }
 }
