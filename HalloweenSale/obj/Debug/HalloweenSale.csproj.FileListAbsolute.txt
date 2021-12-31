@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\HalloweenSale\bin\Debug\HalloweenSale.exe.config
+C:\Users\student\source\HackerRank\HalloweenSale\bin\Debug\HalloweenSale.exe
+C:\Users\student\source\HackerRank\HalloweenSale\bin\Debug\HalloweenSale.pdb
+C:\Users\student\source\HackerRank\HalloweenSale\obj\Debug\HalloweenSale.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\HalloweenSale\obj\Debug\HalloweenSale.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\HalloweenSale\obj\Debug\HalloweenSale.exe
+C:\Users\student\source\HackerRank\HalloweenSale\obj\Debug\HalloweenSale.pdb
