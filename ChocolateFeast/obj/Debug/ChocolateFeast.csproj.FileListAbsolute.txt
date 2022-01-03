@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\ChocolateFeast\bin\Debug\ChocolateFeast.exe.config
+C:\Users\student\source\HackerRank\ChocolateFeast\bin\Debug\ChocolateFeast.exe
+C:\Users\student\source\HackerRank\ChocolateFeast\bin\Debug\ChocolateFeast.pdb
+C:\Users\student\source\HackerRank\ChocolateFeast\obj\Debug\ChocolateFeast.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\ChocolateFeast\obj\Debug\ChocolateFeast.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\ChocolateFeast\obj\Debug\ChocolateFeast.exe
+C:\Users\student\source\HackerRank\ChocolateFeast\obj\Debug\ChocolateFeast.pdb
