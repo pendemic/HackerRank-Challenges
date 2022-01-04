@@ -1,0 +1,6 @@
+C:\Users\student\source\HackerRank\Lisa'sWorkbook\bin\Debug\Lisa'sWorkbook.exe.config
+C:\Users\student\source\HackerRank\Lisa'sWorkbook\bin\Debug\Lisa'sWorkbook.exe
+C:\Users\student\source\HackerRank\Lisa'sWorkbook\bin\Debug\Lisa'sWorkbook.pdb
+C:\Users\student\source\HackerRank\Lisa'sWorkbook\obj\Debug\Lisa'sWorkbook.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\Lisa'sWorkbook\obj\Debug\Lisa'sWorkbook.exe
+C:\Users\student\source\HackerRank\Lisa'sWorkbook\obj\Debug\Lisa'sWorkbook.pdb

@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "Chocolate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "ServiceLane\ServiceLane.csproj", "{E46D9DFB-B6BD-4C0B-8840-4A37BBDC28EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lisa'sWorkbook", "Lisa'sWorkbook\Lisa'sWorkbook.csproj", "{E95820B2-61F0-46E6-8706-D2B4D29A3459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{E46D9DFB-B6BD-4C0B-8840-4A37BBDC28EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E46D9DFB-B6BD-4C0B-8840-4A37BBDC28EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E46D9DFB-B6BD-4C0B-8840-4A37BBDC28EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95820B2-61F0-46E6-8706-D2B4D29A3459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95820B2-61F0-46E6-8706-D2B4D29A3459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95820B2-61F0-46E6-8706-D2B4D29A3459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95820B2-61F0-46E6-8706-D2B4D29A3459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
