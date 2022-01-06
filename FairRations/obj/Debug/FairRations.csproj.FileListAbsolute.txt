@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\FairRations\bin\Debug\FairRations.exe.config
+C:\Users\student\source\HackerRank\FairRations\bin\Debug\FairRations.exe
+C:\Users\student\source\HackerRank\FairRations\bin\Debug\FairRations.pdb
+C:\Users\student\source\HackerRank\FairRations\obj\Debug\FairRations.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\FairRations\obj\Debug\FairRations.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\FairRations\obj\Debug\FairRations.exe
+C:\Users\student\source\HackerRank\FairRations\obj\Debug\FairRations.pdb
