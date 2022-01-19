@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\LeftRotationDS\bin\Debug\LeftRotationDS.exe.config
+C:\Users\student\source\HackerRank\LeftRotationDS\bin\Debug\LeftRotationDS.exe
+C:\Users\student\source\HackerRank\LeftRotationDS\bin\Debug\LeftRotationDS.pdb
+C:\Users\student\source\HackerRank\LeftRotationDS\obj\Debug\LeftRotationDS.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\LeftRotationDS\obj\Debug\LeftRotationDS.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\LeftRotationDS\obj\Debug\LeftRotationDS.exe
+C:\Users\student\source\HackerRank\LeftRotationDS\obj\Debug\LeftRotationDS.pdb
