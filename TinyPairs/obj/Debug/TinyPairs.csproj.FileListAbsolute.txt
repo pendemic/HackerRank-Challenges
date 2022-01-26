@@ -1,6 +1,0 @@
-C:\Users\student\source\HackerRank\TinyPairs\bin\Debug\TinyPairs.exe.config
-C:\Users\student\source\HackerRank\TinyPairs\bin\Debug\TinyPairs.exe
-C:\Users\student\source\HackerRank\TinyPairs\bin\Debug\TinyPairs.pdb
-C:\Users\student\source\HackerRank\TinyPairs\obj\Debug\TinyPairs.csproj.CoreCompileInputs.cache
-C:\Users\student\source\HackerRank\TinyPairs\obj\Debug\TinyPairs.exe
-C:\Users\student\source\HackerRank\TinyPairs\obj\Debug\TinyPairs.pdb

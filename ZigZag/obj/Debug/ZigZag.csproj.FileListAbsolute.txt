@@ -1,7 +1,0 @@
-C:\Users\student\source\HackerRank\ZigZag\bin\Debug\ZigZag.exe.config
-C:\Users\student\source\HackerRank\ZigZag\bin\Debug\ZigZag.exe
-C:\Users\student\source\HackerRank\ZigZag\bin\Debug\ZigZag.pdb
-C:\Users\student\source\HackerRank\ZigZag\obj\Debug\ZigZag.csprojAssemblyReference.cache
-C:\Users\student\source\HackerRank\ZigZag\obj\Debug\ZigZag.csproj.CoreCompileInputs.cache
-C:\Users\student\source\HackerRank\ZigZag\obj\Debug\ZigZag.exe
-C:\Users\student\source\HackerRank\ZigZag\obj\Debug\ZigZag.pdb
