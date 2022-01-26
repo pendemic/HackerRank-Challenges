@@ -1,0 +1,6 @@
+C:\Users\student\source\HackerRank\LongestContiguousArray\bin\Debug\LongestContiguousArray.exe.config
+C:\Users\student\source\HackerRank\LongestContiguousArray\bin\Debug\LongestContiguousArray.exe
+C:\Users\student\source\HackerRank\LongestContiguousArray\bin\Debug\LongestContiguousArray.pdb
+C:\Users\student\source\HackerRank\LongestContiguousArray\obj\Debug\LongestContiguousArray.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\LongestContiguousArray\obj\Debug\LongestContiguousArray.exe
+C:\Users\student\source\HackerRank\LongestContiguousArray\obj\Debug\LongestContiguousArray.pdb
