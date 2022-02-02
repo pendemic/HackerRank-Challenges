@@ -1,0 +1,7 @@
+C:\Users\student\source\HackerRank\MagicalWell\bin\Debug\MagicalWell.exe.config
+C:\Users\student\source\HackerRank\MagicalWell\bin\Debug\MagicalWell.exe
+C:\Users\student\source\HackerRank\MagicalWell\bin\Debug\MagicalWell.pdb
+C:\Users\student\source\HackerRank\MagicalWell\obj\Debug\MagicalWell.csprojAssemblyReference.cache
+C:\Users\student\source\HackerRank\MagicalWell\obj\Debug\MagicalWell.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\MagicalWell\obj\Debug\MagicalWell.exe
+C:\Users\student\source\HackerRank\MagicalWell\obj\Debug\MagicalWell.pdb

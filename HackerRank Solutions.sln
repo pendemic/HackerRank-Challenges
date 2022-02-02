@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastFactorial", "LeastFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSumOfTwoRepresentations", "CountSumOfTwoRepresentations\CountSumOfTwoRepresentations.csproj", "{8E6071BA-B210-47C5-8211-9EF0AF2E657B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicalWell", "MagicalWell\MagicalWell.csproj", "{82552DD0-76EA-41AC-983D-CBDE94879A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{8E6071BA-B210-47C5-8211-9EF0AF2E657B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E6071BA-B210-47C5-8211-9EF0AF2E657B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E6071BA-B210-47C5-8211-9EF0AF2E657B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82552DD0-76EA-41AC-983D-CBDE94879A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82552DD0-76EA-41AC-983D-CBDE94879A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82552DD0-76EA-41AC-983D-CBDE94879A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82552DD0-76EA-41AC-983D-CBDE94879A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
