@@ -1,0 +1,6 @@
+C:\Users\student\source\HackerRank\CountSumOfTwoRepresentations\bin\Debug\CountSumOfTwoRepresentations.exe.config
+C:\Users\student\source\HackerRank\CountSumOfTwoRepresentations\bin\Debug\CountSumOfTwoRepresentations.exe
+C:\Users\student\source\HackerRank\CountSumOfTwoRepresentations\bin\Debug\CountSumOfTwoRepresentations.pdb
+C:\Users\student\source\HackerRank\CountSumOfTwoRepresentations\obj\Debug\CountSumOfTwoRepresentations.csproj.CoreCompileInputs.cache
+C:\Users\student\source\HackerRank\CountSumOfTwoRepresentations\obj\Debug\CountSumOfTwoRepresentations.exe
+C:\Users\student\source\HackerRank\CountSumOfTwoRepresentations\obj\Debug\CountSumOfTwoRepresentations.pdb
